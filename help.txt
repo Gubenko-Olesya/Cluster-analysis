@@ -1,0 +1,12 @@
+//Gubenko Olesya 212
+
+- Number of points
+- Average x and y coordinates
+- Dispersion in x and y 
+				>> set the parameters of the cloud (how many points, the expectation of the distribution (2 coordinates), the variance of the distribution (2 coordinates))
+
+Create_a_cloud			>> create a cloud
+
+Print_the_cloud			>> print the cloud
+
+Stop_program			>> finish
