@@ -10,3 +10,7 @@ Create_a_cloud			>> create a cloud
 Print_the_cloud			>> print the cloud
 
 Stop_program			>> finish
+
+Print_the_field			>> print the field (print all clouds we have)
+
+Sort_K_means			>> part points in the field into clusters
